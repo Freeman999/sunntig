@@ -1,0 +1,12 @@
+    WARNING: @ (U+0040) is already defined more than once on the keyboard (on VK_2, ShiftState 'Ctl+Alt' and VK_2, ShiftState 'Shift').
+    WARNING: q (U+0071) is already defined more than once on the keyboard (on VK_P, ShiftState 'Ctl+Alt' and VK_O, ShiftState 'Ctl+Alt').
+    WARNING: Q (U+0051) is already defined more than once on the keyboard (on VK_P, ShiftState 'Shift+Ctl+Alt' and VK_O, ShiftState 'Shift+Ctl+Alt').
+    WARNING: ü (U+00fc) is already defined more than once on the keyboard (on VK_Y, ShiftState 'Ctl+Alt' and VK_P, ShiftState 'Base').
+    WARNING: Ü (U+00dc) is already defined more than once on the keyboard (on VK_Y, ShiftState 'Shift+Ctl+Alt' and VK_P, ShiftState 'Shift').
+    WARNING: | (U+007c) is already defined more than once on the keyboard (on VK_OEM_PLUS, ShiftState 'Shift' and VK_7, ShiftState 'Ctl+Alt').
+    WARNING: ä (U+00e4) is already defined more than once on the keyboard (on VK_OEM_COMMA, ShiftState 'Base' and VK_Q, ShiftState 'Ctl+Alt').
+    WARNING: Ä (U+00c4) is already defined more than once on the keyboard (on VK_OEM_COMMA, ShiftState 'Shift' and VK_Q, ShiftState 'Shift+Ctl+Alt').
+    WARNING: § (U+00a7) is already defined more than once on the keyboard (on VK_OEM_3, ShiftState 'Base' and VK_S, ShiftState 'Shift+Ctl+Alt').
+    WARNING: ° (U+00b0) is already defined more than once on the keyboard (on VK_OEM_3, ShiftState 'Shift' and VK_OEM_1, ShiftState 'Shift+Ctl+Alt').
+    WARNING: 'k' defined on OEM_102 (Base) but not defined elsewhere. This key may not be present on all keyboards.
+    WARNING: 'K' defined on OEM_102 (Shift) but not defined elsewhere. This key may not be present on all keyboards.
