@@ -11,6 +11,13 @@ Originally reated by OXEY (https://github.com/O-X-E-Y) and his great tools. Afte
 Version 5 is worked on, trying to organize the AltGr-Layer better.
 
 
+How to use it:
+Download whole folder.
+Place it somewhere save.
+Doubleclick the .exe
+Reboot computer.
+
+
 Best used with angle mod:
 ![grafik](https://user-images.githubusercontent.com/65241975/200529481-8335f492-1a24-470b-9634-cc80dda86aff.png)
  ISO: The Angle Mod on an Colemak ISO keyboard.
