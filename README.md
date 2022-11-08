@@ -17,6 +17,8 @@ Place it somewhere save.
 Doubleclick the .exe
 Reboot computer.
 
+To remove:
+Doubleclick the .exe again.
 
 Best used with angle mod:
 ![grafik](https://user-images.githubusercontent.com/65241975/200529481-8335f492-1a24-470b-9634-cc80dda86aff.png)
