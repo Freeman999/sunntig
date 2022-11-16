@@ -5,14 +5,15 @@ A keyboard layout for Swiss German
 
 Created for ISO keyboards
 
+After each . and , a space is placed. 
+
+Layout best used with with angle mod (fingers placed like showed above). 
+
 ```
 z m l b p  ' , o u ü 
 h s n t g  . r e i a 
 k f w d v  j c ä y ö 
 ```
-
-After each . and , a space is placed. 
-Layout best used with with angle mod (fingers placed like showed above). 
 
 Originally reated by OXEY (https://github.com/O-X-E-Y) and his great tools. Afterwards I refined it.
 
