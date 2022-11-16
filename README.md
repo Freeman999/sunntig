@@ -9,20 +9,22 @@ After each . and , a space is placed.
 
 Layout best used with with angle mod (fingers placed like showed above). 
 
+
+
+Originally reated by OXEY (https://github.com/O-X-E-Y) and his great tools. Afterwards I refined it.
 ```
 z m l b p  ' , o u ü 
 h s n t g  . r e i a 
 k f w d v  j c ä y ö 
 ```
 
-Originally reated by OXEY (https://github.com/O-X-E-Y) and his great tools. Afterwards I refined it.
-
-
 How to use it:
 - Download whole folder.
 - Place it somewhere save.
 - Doubleclick the .exe
 - Reboot computer.
+- Change in "Language" settings, add it under "Deutsch (Schweiz)" (top one is default)
+- Switch witch Win+Space
 
 To remove:
 - Doubleclick the .exe again.
