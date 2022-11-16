@@ -2,13 +2,16 @@
 A keyboard layout for Swiss German
 
 ![Layout Vis](https://user-images.githubusercontent.com/65241975/202269326-1909edf4-2041-4e7e-929d-b4e2fc917de7.png)
-
+Created for ISO keyboards
 
 ```
 z m l b p  ' , o u ü 
 h s n t g  . r e i a 
 k f w d v  j c ä y ö 
 ```
+
+After each . and , a space is placed. 
+Layout best used with with angle mod (fingers placed like showed above). 
 
 Originally reated by OXEY (https://github.com/O-X-E-Y) and his great tools. Afterwards I refined it.
 
@@ -21,8 +24,3 @@ Reboot computer.
 
 To remove:
 Doubleclick the .exe again.
-
-Best used with angle mod:
-![grafik](https://user-images.githubusercontent.com/65241975/200529481-8335f492-1a24-470b-9634-cc80dda86aff.png)
- ISO: The Angle Mod on an Colemak ISO keyboard.
-Image source and more info: https://colemakmods.github.io/ergonomic-mods/angle.html
