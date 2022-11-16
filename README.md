@@ -18,10 +18,10 @@ Originally reated by OXEY (https://github.com/O-X-E-Y) and his great tools. Afte
 
 
 How to use it:
-Download whole folder.
-Place it somewhere save.
-Doubleclick the .exe
-Reboot computer.
+- Download whole folder.
+- Place it somewhere save.
+- Doubleclick the .exe
+- Reboot computer.
 
 To remove:
-Doubleclick the .exe again.
+- Doubleclick the .exe again.
