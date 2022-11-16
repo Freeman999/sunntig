@@ -19,10 +19,10 @@ k f w d v  j c ä y ö
 ```
 
 How to use it:
-- Download whole folder.
-- Place it somewhere save.
+- Download whole folder
+- Place it somewhere save
 - Doubleclick the .exe
-- Reboot computer.
+- Reboot computer
 - Change in "Language" settings, add it under "Deutsch (Schweiz)" (top one is default)
 - Switch witch Win+Space
 
