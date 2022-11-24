@@ -19,7 +19,7 @@ k f w d v  j c ä y ö
 ```
 
 How to use it:
-- Download whole folder
+- Download newest sunntig version
 - Place it somewhere save
 - Doubleclick the .exe
 - Reboot computer
