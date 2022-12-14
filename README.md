@@ -1,7 +1,7 @@
 # sunntig
 A keyboard layout for Swiss German
 
-![Layout Vis sunntig](https://user-images.githubusercontent.com/65241975/207570683-3eabf283-bad3-48d8-9e22-f0fb5c1813e2.png)
+![Layout Vis sunntig](https://user-images.githubusercontent.com/65241975/207581965-acb1561c-9668-46ad-b231-442aadeaf771.png)
 
 Created for ISO keyboards
 
