@@ -1,7 +1,7 @@
 # sunntig
 A keyboard layout for Swiss German
 
-![Layout Vis](https://user-images.githubusercontent.com/65241975/202269326-1909edf4-2041-4e7e-929d-b4e2fc917de7.png)
+![Layout Vis sunntig](https://user-images.githubusercontent.com/65241975/207570683-3eabf283-bad3-48d8-9e22-f0fb5c1813e2.png)
 
 Created for ISO keyboards
 
@@ -11,7 +11,7 @@ Layout best used with with angle mod (fingers placed like showed above).
 
 
 
-Originally reated by OXEY (https://github.com/O-X-E-Y) and his great tools. Afterwards I refined it.
+Originally reated by OXEY (https://github.com/O-X-E-Y) and his great tools. Original version:
 ```
 z m l b p  ' , o u ü 
 h s n t g  . r e i a 
