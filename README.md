@@ -14,6 +14,13 @@ h s n t g  . r e i a
 k f w d v  j c ä y ö 
 ```
 
+Slight adjustment by me, baselayer (brakets and stuff on the right included) is now:
+```
+z m l b p  x , o u ü ( )
+h s n t g  . r e i a - <
+k f w d v  j c ä y ö
+```
+
 How to use it:
 - Download newest sunntig version
 - Place it somewhere save
